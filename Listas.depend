@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1422555934 source:/home/turupawn/Projects/Clases/_Progra3/Listas/main.cpp
+	<iostream>
+	"Lista.h"
+
+1422552099 /home/turupawn/Projects/Clases/_Progra3/Listas/Nodo.h
+	<iostream>
+
+1422552101 source:/home/turupawn/Projects/Clases/_Progra3/Listas/Nodo.cpp
+	"Nodo.h"
+
+1422553680 source:/home/turupawn/Projects/Clases/_Progra3/Listas/Lista.cpp
+	"Lista.h"
+
+1422555951 /home/turupawn/Projects/Clases/_Progra3/Listas/Lista.h
+	<iostream>
+	"Nodo.h"
+
